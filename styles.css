@@ -1,0 +1,25 @@
+*{
+    margin: 20px;
+    font-size: 1.2rem;
+    font-family:monospace;
+}
+
+#container{
+    border: 5px solid rgb(69, 69, 175);
+    border-radius: 14px;
+    background-color: rgb(159, 219, 220);
+    text-align: center;
+}
+
+button{
+    padding: 10px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+    box-shadow:5px 3px 15px 3px #000;
+}
